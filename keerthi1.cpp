@@ -94,7 +94,7 @@ int main()
 			if(east==1)
 			{
 				east--;
-				cout<<"\n\n you safely leaved from junction";
+				cout<<"\n\n you safely leaved from junction/n";
 			}
 		}
 	}
